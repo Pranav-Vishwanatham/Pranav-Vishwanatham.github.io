@@ -1594,7 +1594,7 @@ a:hover, a:active {
 
   .car-track {
     height: 30px;
-    max-width: 82.5vw;     /* use more screen width */
+    max-width: 83.5vw;     /* use more screen width */
     margin: 0 auto;
   }
 
@@ -1639,7 +1639,7 @@ a:hover, a:active {
     }
 
     100% {
-      left: calc(100% + 30px);
+      left: calc(100% + 33px);
       top: -65%;    /* align beside text line */
       transform: translate(-100%, 0);
     }
