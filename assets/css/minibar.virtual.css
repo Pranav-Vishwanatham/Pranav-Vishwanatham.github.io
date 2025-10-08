@@ -303,7 +303,7 @@
 }
 
 .timeline li .title {
-    width: 150px;
+    width: auto;
     padding: 6px 20px;
     background-color: #A1C1C1;
     color: #fff;
